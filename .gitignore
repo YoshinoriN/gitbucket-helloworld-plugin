@@ -1,0 +1,5 @@
+.idea/*
+*.jar
+*.history
+target/*
+project/target/config-classes/*
